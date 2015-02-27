@@ -25,7 +25,7 @@ public class SchedulingPatternTest {
   public void testExceptionIsThrown() {
     SchedulingPattern sp = new SchedulingPattern("0 5 * *");
   }
-
+lkfgdjln
   @Test
   public void testPattern() {
     String pattern;
