@@ -9,4 +9,4 @@ node_js:
 
 script:
         - pushd cron4j-original && ant rel && popd
-        - pushd cron4j-mvm/cron4j && mvm clean verify
+        - pushd cron4j-mvn/cron4j && mvm clean verify
